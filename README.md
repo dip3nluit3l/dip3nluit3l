@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<script src="https://tryhackme.com/badge/702552"></script>
 <!--
 **dip3nluit3l/dip3nluit3l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
